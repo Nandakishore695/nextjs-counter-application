@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <>
    <header>
-      <a href="https://github.com/Nandakishore695/nextJs-Todo-List"><Image src={githubIcon} alt="gitHub Nandakishore695" width={70}/></a>
+      <a href="https://nandakishore695.github.io/nextjs-counter-application"><Image src={githubIcon} alt="gitHub Nandakishore695" width={70}/></a>
     </header>
       <main className="text-center my-10">
         <h1 className="uppercase text-4xl">counter app</h1>
